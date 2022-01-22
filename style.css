@@ -1,0 +1,21 @@
+body, div {
+	margin: 0;
+	padding: 0;
+}
+
+#canvas {
+	border: 1px solid #000;
+}
+
+.editor {
+	color: #fff;
+	margin: auto;
+	margin-top: 30px;
+	width: fit-content;
+}
+
+/*.editor-input {
+	background: #000;
+	margin: 0;
+	width: 100%;
+}*/
